@@ -18,7 +18,7 @@ zh:
  menu:
    main:
      - name: 教育背景
-       url: '#about'
+       url: '#admin'
        weight: 10
      - name: 主干课程
        url: '#posts'
