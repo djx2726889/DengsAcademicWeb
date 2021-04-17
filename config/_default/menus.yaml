@@ -4,19 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 教育背景
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: 主干课程
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: 获奖情况
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: 科研经历
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: 实践经历
     url: '#featured'
     weight: 50
   - name: Contact
